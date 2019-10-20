@@ -1,0 +1,105 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\images\BMNG_world.topo.bathy.200405.3.2048x1024.jpg" />
+    <Content Remove="wwwroot\images\crosshair.png" />
+    <Content Remove="wwwroot\images\dnb_land_ocean_ice_2012.png" />
+    <Content Remove="wwwroot\images\notched-compass.png" />
+    <Content Remove="wwwroot\images\powered-by-bing.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-black.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-blue.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-brown.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-gray.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-green.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-orange.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-purple.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-red.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-teal.png" />
+    <Content Remove="wwwroot\images\pushpins\castshadow-white.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-black.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-blue.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-brown.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-gray.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-green.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-orange.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-purple.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-red.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-teal.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-white.png" />
+    <Content Remove="wwwroot\images\pushpins\plain-yellow.png" />
+    <Content Remove="wwwroot\images\pushpins\push-pin-red.png" />
+    <Content Remove="wwwroot\images\pushpins\push-pin-yellow-32.png" />
+    <Content Remove="wwwroot\images\pushpins\push-pin-yellow.png" />
+    <Content Remove="wwwroot\images\sunTexture.png" />
+    <Content Remove="wwwroot\images\view\view-elevation-down-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-elevation-up-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-fov-narrow-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-fov-wide-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-heading-left-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-heading-right-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-look-64x64.png" />
+    <Content Remove="wwwroot\images\view\view-pan-64x64.png" />
+    <Content Remove="wwwroot\images\view\view-pitch-down-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-pitch-up-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-zoom-in-32x32.png" />
+    <Content Remove="wwwroot\images\view\view-zoom-out-32x32.png" />
+    <Content Remove="wwwroot\images\white-dot.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\BMNG_world.topo.bathy.200405.3.2048x1024.jpg" />
+    <None Include="wwwroot\images\crosshair.png" />
+    <None Include="wwwroot\images\dnb_land_ocean_ice_2012.png" />
+    <None Include="wwwroot\images\notched-compass.png" />
+    <None Include="wwwroot\images\powered-by-bing.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-black.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-blue.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-brown.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-gray.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-green.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-orange.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-purple.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-red.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-teal.png" />
+    <None Include="wwwroot\images\pushpins\castshadow-white.png" />
+    <None Include="wwwroot\images\pushpins\plain-black.png" />
+    <None Include="wwwroot\images\pushpins\plain-blue.png" />
+    <None Include="wwwroot\images\pushpins\plain-brown.png" />
+    <None Include="wwwroot\images\pushpins\plain-gray.png" />
+    <None Include="wwwroot\images\pushpins\plain-green.png" />
+    <None Include="wwwroot\images\pushpins\plain-orange.png" />
+    <None Include="wwwroot\images\pushpins\plain-purple.png" />
+    <None Include="wwwroot\images\pushpins\plain-red.png" />
+    <None Include="wwwroot\images\pushpins\plain-teal.png" />
+    <None Include="wwwroot\images\pushpins\plain-white.png" />
+    <None Include="wwwroot\images\pushpins\plain-yellow.png" />
+    <None Include="wwwroot\images\pushpins\push-pin-red.png" />
+    <None Include="wwwroot\images\pushpins\push-pin-yellow-32.png" />
+    <None Include="wwwroot\images\pushpins\push-pin-yellow.png" />
+    <None Include="wwwroot\images\sunTexture.png" />
+    <None Include="wwwroot\images\view\view-elevation-down-32x32.png" />
+    <None Include="wwwroot\images\view\view-elevation-up-32x32.png" />
+    <None Include="wwwroot\images\view\view-fov-narrow-32x32.png" />
+    <None Include="wwwroot\images\view\view-fov-wide-32x32.png" />
+    <None Include="wwwroot\images\view\view-heading-left-32x32.png" />
+    <None Include="wwwroot\images\view\view-heading-right-32x32.png" />
+    <None Include="wwwroot\images\view\view-look-64x64.png" />
+    <None Include="wwwroot\images\view\view-pan-64x64.png" />
+    <None Include="wwwroot\images\view\view-pitch-down-32x32.png" />
+    <None Include="wwwroot\images\view\view-pitch-up-32x32.png" />
+    <None Include="wwwroot\images\view\view-zoom-in-32x32.png" />
+    <None Include="wwwroot\images\view\view-zoom-out-32x32.png" />
+    <None Include="wwwroot\images\white-dot.png" />
+    <None Include="wwwroot\js\helloWorldWide.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+</Project>
